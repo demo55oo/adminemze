@@ -168,8 +168,8 @@ const productsCollection = buildCollection<Product>({
             of: {
                 dataType: "string",
                 enumValues: {
-                    electronics: "Electronics",
-                    books: "Books",
+                    Apartments: "Apartments",
+                    Cars: "Cars",
                     furniture: "Furniture",
                     clothing: "Clothing",
                     food: "Food"
