@@ -219,7 +219,7 @@ export default function App() {
     }, []);
 
     return <FirebaseCMSApp
-        name={"My Online Shop"}
+        name={Emze admin dashboard"}
         authentication={myAuthenticator}
         collections={[productsCollection]}
         firebaseConfig={firebaseConfig}
